@@ -9,7 +9,8 @@ st.title("Dumb Language Model")
 
 st.markdown("""
 Back before GPT-3 and all that we used to make our own language models
-by hand, uphill both ways, etc etc. This right here is a dead-simple
+by hand, barefoot in the snow, uphill both ways, etc etc. 
+This right here is a really dumb
 [n-gram language model](https://en.wikipedia.org/wiki/N-gram#n-gram_models).
 
 The pre-filled corpus is all of Shakespeare's sonnets, 
